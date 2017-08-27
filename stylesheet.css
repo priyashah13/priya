@@ -8,7 +8,7 @@ h1{
   color: white;
   margin-top: 200px;
   margin-bottom: 200px;
-  font-family: 'Lobster Two', cursive;
+  font-family: 'Playfair Display', serif;
   font-size: 100px;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
@@ -56,6 +56,6 @@ h2{
   margin-bottom: 40px;
   text-align: center;
   font-size: 40px;
-  font-family: 'Lobster two', cursive;
+  font-family: 'Playfair Display', serif;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
