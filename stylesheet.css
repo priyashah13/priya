@@ -5,12 +5,11 @@ body{
 
 h1{
   text-align: center;
-  color: white;
+  color: #342c2c;
   margin-top: 200px;
   margin-bottom: 200px;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 100px;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 a{
@@ -22,7 +21,7 @@ a{
 }
 
 a:hover, a:focus{
-	color: #ffe4e1;
+	color: #d2b48c;
 }
 
 nav{
@@ -51,11 +50,10 @@ p{
 }
 
 h2{
-  color: #D98880;
+  color: #d2b48c;
   margin-top: 100px;
   margin-bottom: 40px;
   text-align: center;
   font-size: 40px;
-  font-family: 'Playfair Display', serif;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  font-family: 'Roboto', sans-serif;
 }
