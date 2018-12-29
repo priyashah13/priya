@@ -1,35 +1,34 @@
-
-body{
-  background-color: #DCB4B3;
+body {
+  background-image: "flowers.jpg";
 }
 
-h1{
+h1 {
   text-align: center;
   color: #342c2c;
   font-family: 'Roboto', sans-serif;
   font-size: 100px;
 }
 
-a{
+a {
   font-family: 'Roboto', sans-serif;
-	color: white;
-	background-color: transparent!important;
-  text-decoration: none!important;
+  color: white;
+  background-color: transparent !important;
+  text-decoration: none !important;
   max-width: 100%;
 }
 
-a:hover, a:focus{
-	color: #826b69;
+a:hover, a:focus {
+  color: #826b69;
 }
 
-nav{
+nav {
   margin-top: 100px;
   margin-bottom: 100px;
   text-align: center;
   width: 100%;
 }
 
-nav a{
+nav a {
   font-size: 18px;
   font-weight: lighter;
   display: inline-block;
@@ -37,18 +36,18 @@ nav a{
   margin-right: 50px;
 }
 
-b{
+b {
   font-weight: bold;
 }
 
-p{
+p {
   font-size: 18px;
   text-align: center;
   color: white;
   font-family: 'Roboto', sans-serif;
 }
 
-h2{
+h2 {
   color: #342c2c;
   margin-top: 100px;
   margin-bottom: 40px;
