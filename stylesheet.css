@@ -1,20 +1,20 @@
 body {
   background-image: url("flowers.jpg");
-  background-repeat: repeat-y;
   background-size: 100%;
+  background-repeat: repeat-y;
 }
 
 h1 {
   text-align: center;
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'avenir', sans-serif;
   font-size: 110px;
   text-shadow: 2px 2px #D8BFD8;
   margin-top: 8%;
 }
 
 a {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'avenir', sans-serif;
   color: white;
   background-color: transparent !important;
   text-decoration: none !important;
@@ -47,7 +47,8 @@ b {
 p {
   font-size: 18px;
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'avenir', sans-serif;
+  text-align: center;
 }
 
 h2 {
@@ -56,5 +57,5 @@ h2 {
   margin-bottom: 40px;
   text-align: center;
   font-size: 40px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'avenir', sans-serif;
 }
